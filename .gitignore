@@ -1,0 +1,9 @@
+.env
+db.sqlte3
+*~
+*sup
+*.vscode
+*.pyc
+--pycache--
+/static
+
